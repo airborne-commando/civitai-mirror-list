@@ -27,7 +27,7 @@ Additional alternatives mentioned include:
 Other platforms and resources for AI art models and prompts include:
 
 * GitHub repositories and curated lists like "[awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)".
-* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion), [WIKI](https://www.reddit.com/r/StableDiffusion/wiki/index/)
+* [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion)
 
 If you're looking for up-to-date curated lists similar to "awesome-stable-diffusion" for Stable Diffusion and related diffusion models, several resources are actively maintained in 2025:
 
