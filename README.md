@@ -33,7 +33,7 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 
 # Curated Lists for Stable Diffusion
 
-* **awesome-stable-diffusion (GitHub)**
+* **[awesome-stable-diffusion (GitHub)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)**
    * This is a frequently updated and comprehensive list of Stable Diffusion resources, including GUIs, APIs, model forks, training tools, and community projects. It covers everything from web UIs like AUTOMATIC1111 and ComfyUI to SDKs, Docker setups, and Colab notebooks.
    * Last updated: April 2025.
 * **[awesome-stable-diffusion on Ecosyste.ms](https://awesome.ecosyste.ms/lists/doanbactam/awesome-stable-diffusion)**
