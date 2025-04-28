@@ -46,7 +46,7 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 
 # Other Notable Resources
 
-* **AIbase: Awesome Stable Diffusion Repository**
+* **[AIbase: Awesome Stable Diffusion Repository](https://www.aibase.com/repos/project/awesome-stable-diffusion)**
    * Provides a project repository download and installation guide, with highlights on the latest development trends in Stable Diffusion.
 
 # Summary Table
