@@ -87,7 +87,7 @@ About Yes*: Someone can manipulate data with exiftool or something simular
 Speaking of:
 
 * [exif.tools](https://exif.tools/), use this for looking inside the images possibly.
-  * [Example](https://s4.gifyu.com/images/bLhqO.png)
+  * [Example](https://exif.tools/https://s4.gifyu.com/images/bLhqO.png)
 
 
 Feel free to add in suggestions inside **Issues**
