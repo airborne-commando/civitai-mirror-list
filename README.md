@@ -1,21 +1,21 @@
-# Civitai mirror suggestion list
+# Civit.ai mirror suggestion list
 
 Try these:
 
 This was mainly a list, if one site doesn't work out (like Tensor.art) try the others.
 
-Sites similar to Civitai, which is a popular platform for sharing and discovering Stable Diffusion AI art models, include several notable alternatives:
+Sites similar to [Civit.ai](https://civitai.com/), which is a popular platform for sharing and discovering Stable Diffusion AI art models, include several notable alternatives:
 
-* [Tensor.art](https://tensor.art/): A competitor with a significant user base, offering AI art models and tools similar to Civitai.
+* [Tensor.art](https://tensor.art/): A competitor with a significant user base, offering AI art models and tools similar to Civit.ai.
 * [Huggingface.co](http://huggingface.co/): A widely used platform hosting a variety of AI models, including Stable Diffusion, with strong community and developer support.
 * [ModelScope.cn](https://modelscope.cn/): is essentially a Chinese counterpart to Hugging Face. It is developed by Alibaba Cloud and offers a similar platform for hosting, sharing, and deploying AI models, including features like model hubs, datasets, and spaces for running models online. ModelScope provides many of the same functionalities as Hugging Face but with a focus on the Chinese AI community and regional models
 * [Prompthero.com](https://prompthero.com/): Focuses on AI-generated images and prompt sharing, serving a community interested in AI art generation.
-* [Pixai.art](https://pixai.art/): Another alternative praised for its speed and usability compared to Civitai.
+* [Pixai.art](https://pixai.art/): Another alternative praised for its speed and usability compared to Civit.ai.
 * [Seaart.ai](https://www.seaart.ai/): Offers a large collection of models and styles with community engagement, ranking as a top competitor in traffic and features. I'd try this first for checking backups on models or lora's that were pulled.
 * [civitarc.com](https://www.diffusionarc.com/): a free platform for archiving and sharing image generation models from Stable Diffusion, Flux, and more.
-* [civitaiarchive.com](https://civitaiarchive.com/) A community-driven archive of models and files from CivitAI; can look up models by model name, sha256 or CivitAI links.
-* [CivitAI-Model-grabber](https://github.com/Confuzu/CivitAI-Model-grabber): The Script Downloads in bulk both model(Lora,Lycoris,Embeding etc..) and related images, from a given CivitAI Username (github)
-* [go-civitai-downloader](https://github.com/dreamfast/go-civitai-downloader): Easily download and archive content from Civitai, supports torrent file generation. (github)
+* [civitaiarchive.com](https://civitaiarchive.com/) A community-driven archive of models and files from Civit.ai; can look up models by model name, sha256 or Civit.ai links.
+* [CivitAI-Model-grabber](https://github.com/Confuzu/CivitAI-Model-grabber): The Script Downloads in bulk both model(Lora,Lycoris,Embeding etc..) and related images, from a given Civit.ai Username (github)
+* [go-civitai-downloader](https://github.com/dreamfast/go-civitai-downloader): Easily download and archive content from Civit.ai, supports torrent file generation. (github)
 
 Additional alternatives mentioned include:
 
@@ -65,9 +65,9 @@ These lists are actively maintained and provide a wide range of resources for St
 * Chinese site [liblib.art](http://liblib.art) (language barrier applies) with unique LoRA models.
 * [shakker.ai](https://www.shakker.ai/models?from=brand_head_bar), maybe a sister site of liblib.art.
 
-While Civitai remains the most popular and comprehensive site for Stable Diffusion models, these alternatives provide various features, community sizes, and access methods that may suit different user preferences.
+While Civit.ai remains the most popular and comprehensive site for Stable Diffusion models, these alternatives provide various features, community sizes, and access methods that may suit different user preferences.
 
-In summary, if you are looking for sites like Civitai, consider exploring tensor.art, huggingface.co, prompthero.com, pixai.art, seaart.ai, and newer tools like ThinkDiffusion and Stablecog for AI art model sharing and generation. Each offers unique strengths in model availability, community engagement, or API access.
+In summary, if you are looking for sites like Civit.ai, consider exploring tensor.art, huggingface.co, prompthero.com, pixai.art, seaart.ai, and newer tools like ThinkDiffusion and Stablecog for AI art model sharing and generation. Each offers unique strengths in model availability, community engagement, or API access.
 
 Also try [stablebay.org](https://stablebay.org/) (inb4 boos), by trying  stablebay.org actually upload there and seed on what you like after downloading.
 
@@ -82,13 +82,15 @@ Also try [stablebay.org](https://stablebay.org/) (inb4 boos), by trying  stableb
 | [Imgbb.com](https://imgbb.com/)     |     Yes*      |       Yes        |     Yes     | API available, easy sharing          |
 | [Gifyu](https://gifyu.com/)         |     Yes*      |       Yes        |     Yes     | Supports GIFs, simple sharing        |
 
-About Yes*: Someone can manipulate data with exiftool or something simular
+About Yes*: Someone can manipulate data with exiftool or something similar
 
 Speaking of:
 
 * [exif.tools](https://exif.tools/), use this for looking inside the images possibly.
   * [Example](https://exif.tools/https://s4.gifyu.com/images/bLhqO.png)
 
+
+    ![image](https://github.com/user-attachments/assets/d3da3424-32e7-4d6f-8f4e-237c08bff2c2)
 
 Feel free to add in suggestions inside **Issues**
   
