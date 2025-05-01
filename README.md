@@ -92,7 +92,8 @@ Speaking of:
 
 Feel free to add in suggestions inside **Issues**
   
-Answer from Perplexity: [https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm\_source=copy\_output](https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm_source=copy_output)
+Answer from Perplexity: 
 
-  
+[https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm\_source=copy\_output](https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm_source=copy_output)
+
 [https://www.perplexity.ai/search/any-sites-like-civitai-KtpAzEiJSI607YC0.Roa5w](https://www.perplexity.ai/search/any-sites-like-civitai-KtpAzEiJSI607YC0.Roa5w)
