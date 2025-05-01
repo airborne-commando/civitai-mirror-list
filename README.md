@@ -88,6 +88,9 @@ Speaking of:
 
 * [exif.tools](https://exif.tools/), use this for looking inside the images possibly.
   * [Example](https://exif.tools/https://i.ibb.co/fVDBy3Xm/O3-I2-VAl-xl.png)
+
+
+Feel free to add in suggestions inside **Issues**
   
 Answer from Perplexity: [https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm\_source=copy\_output](https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm_source=copy_output)
 
