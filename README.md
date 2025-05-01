@@ -23,6 +23,7 @@ Additional alternatives mentioned include:
 * [stablecog.com](https://stablecog.com/): A free, open-source, multilingual AI image generator using Stable Diffusion.
 * [Novita.ai](https://novita.ai/): An affordable AI image generation API with thousands of models for various use cases.
 * [imagepipeline.io](https://www.imagepipeline.io/) and [modelslab.com](https://modelslab.com/): Offer advanced APIs and tools for image manipulation and fine-tuned Stable Diffusion model usage.
+* [genvista.com](https://www.genvista.com/): Free Fast Unlimited image generations, Explore a vast Checkpoint library, pick your favorite LoRa, and upscale effortlessly.
 
 Other platforms and resources for AI art models and prompts include:
 
