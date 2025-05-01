@@ -92,7 +92,7 @@ Speaking of:
 
     ![image](https://github.com/user-attachments/assets/d3da3424-32e7-4d6f-8f4e-237c08bff2c2)
 
-Feel free to add in suggestions inside **Issues**
+Feel free to add in suggestions inside ❗**Issues**❗
   
 Answer from Perplexity: 
 
