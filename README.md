@@ -18,6 +18,7 @@ Sites similar to [Civit.ai](https://civitai.com/), which is a popular platform f
 * [go-civitai-downloader](https://github.com/dreamfast/go-civitai-downloader): Easily download and archive content from Civit.ai, supports torrent file generation. (github)
 * [btdig](https://btdig.com/): A free search engine for torrent content, great for biglust and other content that may have been purged. BE sure to be mindful of the word filters see issue [#40](https://github.com/btdig/dhtcrawler2/issues/40).
 * [damag](https://damag.net/): Another free search engine for torrents, isn't so great for biglust however you may find other models.
+* [A curated list](https://fmhy.net/torrenting#aggregators): for torrent aggregators.
 
 Additional alternatives mentioned include:
 
