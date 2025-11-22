@@ -16,7 +16,7 @@ Sites similar to [Civit.ai](https://civitai.com/), which is a popular platform f
 * [civitaiarchive.com](https://civitaiarchive.com/) A community-driven archive of models and files from Civit.ai; can look up models by model name, sha256 or Civit.ai links.
 * [CivitAI-Model-grabber](https://github.com/Confuzu/CivitAI-Model-grabber): The Script Downloads in bulk both model(Lora,Lycoris,Embeding etc..) and related images, from a given Civit.ai Username (github)
 * [go-civitai-downloader](https://github.com/dreamfast/go-civitai-downloader): Easily download and archive content from Civit.ai, supports torrent file generation. (github)
-* A free search engine for [torrent content](https://btdig.com/), great for biglust that may have been purged.
+* [btdig](https://btdig.com/): A free search engine for torrent content, great for biglust and other content that may have been purged.
 
 Additional alternatives mentioned include:
 
