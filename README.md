@@ -30,14 +30,14 @@ Additional alternatives mentioned include:
 
 Other platforms and resources for AI art models and prompts include:
 
-* GitHub repositories and curated lists like "[awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)".
+* GitHub repositories and curated lists like "[awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion)".
 * [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion)
 
 If you're looking for up-to-date curated lists similar to "awesome-stable-diffusion" for Stable Diffusion and related diffusion models, several resources are actively maintained in 2025:
 
 # Curated Lists for Stable Diffusion
 
-* **[awesome-stable-diffusion (GitHub)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)**
+* **[awesome-stable-diffusion (GitHub)](https://github.com/doanbactam/awesome-stable-diffusion)**
    * This is a frequently updated and comprehensive list of Stable Diffusion resources, including GUIs, APIs, model forks, training tools, and community projects. It covers everything from web UIs like AUTOMATIC1111 and ComfyUI to SDKs, Docker setups, and Colab notebooks.
    * Last updated: April 2025.
 * **[awesome-stable-diffusion on Ecosyste.ms](https://awesome.ecosyste.ms/lists/doanbactam/awesome-stable-diffusion)**
@@ -97,9 +97,3 @@ Speaking of:
     ![image](https://github.com/user-attachments/assets/d3da3424-32e7-4d6f-8f4e-237c08bff2c2)
 
 Feel free to add in suggestions inside ❗**Issues**❗
-  
-Answer from Perplexity: 
-
-[https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm\_source=copy\_output](https://www.perplexity.ai/search/anything-else-that-s-a-curated-sXyqRuP9T9i1acgOnoIpGw?utm_source=copy_output)
-
-[https://www.perplexity.ai/search/any-sites-like-civitai-KtpAzEiJSI607YC0.Roa5w](https://www.perplexity.ai/search/any-sites-like-civitai-KtpAzEiJSI607YC0.Roa5w)
