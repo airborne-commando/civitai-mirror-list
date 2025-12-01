@@ -40,7 +40,7 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 * **[awesome-stable-diffusion (GitHub)](https://github.com/doanbactam/awesome-stable-diffusion)**
    * This is a frequently updated and comprehensive list of Stable Diffusion resources, including GUIs, APIs, model forks, training tools, and community projects. It covers everything from web UIs like AUTOMATIC1111 and ComfyUI to SDKs, Docker setups, and Colab notebooks.
    * Last updated: April 2025.
-* **[awesome-stable-diffusion on Ecosyste.ms](https://awesome.ecosyste.ms/lists/doanbactam/awesome-stable-diffusion)**
+* **[awesome-stable-diffusion on Ecosyste.ms (mirror)](https://awesome.ecosyste.ms/lists/doanbactam/awesome-stable-diffusion)**
    * An up-to-date aggregation pointing to the main GitHub list, with 130 projects and last updated in April 2025.
    * Includes links to other diffusion-related awesome lists, such as those for inference, categorized research papers, and video diffusion models.
 * **[awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized)**
@@ -50,9 +50,15 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 
 # Other Notable Resources
 
-* **[AIbase: Awesome Stable Diffusion Repository](https://www.aibase.com/repos/project/awesome-stable-diffusion)**
-   * Provides a project repository download and installation guide, with highlights on the latest development trends in Stable Diffusion.
-   * Any [topics](https://github.com/topics/stable-diffusion) and [discussions](https://github.com/search?q=stable+diffusion&type=discussions) with Stable Diffusion on [GitHub](https://github.com/search?q=stable+diffusion).
+* **github.com**
+   * Provides various resources, repos and projects relating to Stable Diffusion and is open source.
+   * Any [topics](https://github.com/topics/stable-diffusion) and [discussions](https://github.com/search?q=stable+diffusion&type=discussions) with Stable Diffusion can be found on [GitHub](https://github.com/search?q=stable+diffusion).
+
+* **[tensor.art](https://tensor.art)**
+   * Provides various [discussions](https://tensor.art/en-US/articles) relating to Stable Diffusion and prompt generations.
+     
+* **4chan**
+   * Specifically the /g/ board, various model creating methods and prompt making via [rentry](https://rentry.co/). You may have to check archive sites, use 4chansearch.com.
 
 # Summary Table
 
