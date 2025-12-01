@@ -58,7 +58,7 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
    * Provides various [discussions](https://tensor.art/en-US/articles) relating to Stable Diffusion and prompt generations.
      
 * **4chan**
-   * Specifically the /g/ board, various model creating methods and prompt making via [rentry](https://rentry.co/). You may have to check archive sites, use 4chansearch.com.
+   * Specifically the /g/ board and /trash/ though it may be in other boards under /sdg/ - Stable Diffusion General, various model creating methods and prompt making via [rentry](https://rentry.co/). You may have to check archive sites, use 4chansearch.com.
 
 # Summary Table
 
