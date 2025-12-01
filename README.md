@@ -68,7 +68,6 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 |Ecosyste.ms|General SD ecosystem|Apr 2025|Aggregator|
 |awesome-diffusion-categorized|Research papers, subareas|Oct 2024|GitHub|
 |Awesome-Video-Diffusion-Models|Video diffusion models|Apr 2024|GitHub|
-|AIbase Stable Diffusion Repo|Project repo, trends|2025|Download/Guide/GitHub|
 
 These lists are actively maintained and provide a wide range of resources for Stable Diffusion, including software, models, research, and community tools.
 
