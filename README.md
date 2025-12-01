@@ -65,7 +65,7 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 |List Name|Focus Area|Last Updated|Link Type|
 |:-|:-|:-|:-|
 |awesome-stable-diffusion|General SD ecosystem|Apr 2025|GitHub|
-|Ecosyste.ms|General SD ecosystem|Apr 2025|Aggregator|
+|Ecosyste.ms|Ecosyste.ms is a foundational resource for anyone working to understand, secure, or support open-source software at scale.|Apr 2025|Aggregator|
 |awesome-diffusion-categorized|Research papers, subareas|Oct 2024|GitHub|
 |Awesome-Video-Diffusion-Models|Video diffusion models|Apr 2024|GitHub|
 
