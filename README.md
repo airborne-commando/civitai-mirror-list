@@ -60,8 +60,8 @@ If you're looking for up-to-date curated lists similar to "awesome-stable-diffus
 * **4chan**
    * Specifically the /g/ board and /trash/ though it may be in other boards under /sdg/ - Stable Diffusion General, various model creating methods and prompt making via [rentry](https://rentry.co/). You may have to check archive sites, use 4chansearch.com or 4search.neocities.org.
    
-   * [Free Media Heck Yeah](https://fmhy.net/)
-   A wiki containing a more robust curated list for different subjects.
+* **[Free Media Heck Yeah](https://fmhy.net/)**
+   * A wiki containing a more robust curated list for different subjects.
 
 # Summary Table
 
