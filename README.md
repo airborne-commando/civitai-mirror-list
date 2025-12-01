@@ -90,8 +90,11 @@ Also try [stablebay.org](https://stablebay.org/) (inb4 boos), by trying  stableb
 | [Postimages.org](https://postimages.org/)|     Yes*      |       Yes        |     Yes     | Multiple sizes, galleries            |
 | [Imgbb.com](https://imgbb.com/)     |     Yes*      |       Yes        |     Yes     | API available, easy sharing          |
 | [Gifyu](https://gifyu.com/)         |     Yes*      |       Yes        |     Yes     | Supports GIFs, simple sharing        |
+| [fmhy - image hosts](https://fmhy.net/image-tools#image-hosts)| Yes*      |       Yes*       |     Yes*    | Another curated list 
 
-About Yes*: Someone can manipulate data with exiftool or something similar
+About Yes*:
+
+Depends on the category, for EXIF Someone can manipulate data with exiftool or something similar and for others it may be unverified (a list).
 
 Speaking of:
 
