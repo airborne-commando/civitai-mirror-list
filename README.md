@@ -87,7 +87,6 @@ Also try [stablebay.org](https://stablebay.org/) (inb4 boos), by trying  stableb
 |-------------------|:-------------:|:----------------:|:-----------:|--------------------------------------|
 | [Turboimagehost](https://www.turboimagehost.com/)|     Yes*      |       Yes        |     Yes     | Ads present, adult content allowed   |
 | [8upload.com](https://8upload.com/)   |     Yes*      |       Yes        |     Yes     | Fast, minimal interface              |
-| [Imgpile.com](https://imgpile.com/)   |     Yes*      |       Yes        |     Yes     | No registration needed, clean UI     |
 | [Postimages.org](https://postimages.org/)|     Yes*      |       Yes        |     Yes     | Multiple sizes, galleries            |
 | [Imgbb.com](https://imgbb.com/)     |     Yes*      |       Yes        |     Yes     | API available, easy sharing          |
 | [Gifyu](https://gifyu.com/)         |     Yes*      |       Yes        |     Yes     | Supports GIFs, simple sharing        |
