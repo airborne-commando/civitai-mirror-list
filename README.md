@@ -107,4 +107,24 @@ Speaking of:
 
     ![image](https://github.com/user-attachments/assets/d3da3424-32e7-4d6f-8f4e-237c08bff2c2)
 
+# How to train a model:
+
+## Local
+
+[kohya_ss](https://github.com/bmaltais/kohya_ss) - You'll need this
+
+[Kohya Local training guide](https://vancurious.ca/generative-AI-Kohya)
+
+[How to create an original character LoRA](https://www.digitalcreativeai.net/en/post/kohya-ss-gui-installation-basic-operations)
+
+## AMD
+
+[Training Stable Diffusion LoRA with Kohya on AMD GPU](https://initialxy.com/lesson/2023/03/31/training-stable-diffusion-lora-with-kohya-on-amd-gpu)
+
+# Colab
+
+[Google Colab](https://stable-diffusion-art.com/train-lora/)
+
+
+
 Feel free to add in suggestions inside ❗**Issues**❗
